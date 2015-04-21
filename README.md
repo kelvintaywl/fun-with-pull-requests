@@ -17,7 +17,6 @@ That elegant solution needs a summary in the pull request.
 
 *Or is it?*
 
-
 Remember a pull request documentation is often the first piece of text another developer sees before perusing your code.
 
 Unlike a teacher marking your essay, reviewers of your code may not know why the pull request is even necessary.
