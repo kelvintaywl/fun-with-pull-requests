@@ -1,5 +1,10 @@
 # Fun With Pull Requests
-A well-written pull request is easy and fun. It just takes some commitment (no puns intended).
+
+How to achieve greatness with well-written pull requests.
+
+A well-written pull request is beautiful, easy and fun. It just takes some commitment (no puns intended).
+
+[view fancy version](http://kelvintaywl.gitbooks.io/fun-with-pull-requests/)
 
 ## Introduction
 
